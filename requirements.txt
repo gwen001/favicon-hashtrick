@@ -1,0 +1,5 @@
+argparse
+mmh3
+requests
+shodan
+colored
