@@ -2,6 +2,16 @@
 
 Returns the hash of a given favicon file and performs IP search on Shodan.
 
+## Install
+
+```
+git clone https://github.com/gwen001/favicon-hashtrick
+cd favicon-hashtrick
+pip3 install -r requirements.txt
+```
+
+## Usage
+
 ```
 $ python3 favicon-hashtrick.py <url>
 ```
