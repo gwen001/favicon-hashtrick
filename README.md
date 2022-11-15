@@ -1,6 +1,7 @@
 # favicon-hashtrick
 
-Returns the hash of a given favicon file and performs IP search on Shodan.
+Returns the hash of a given favicon file and performs search on Shodan.  
+It's a good way to discover IPs and subdomains.
 
 ## Install
 
