@@ -13,7 +13,8 @@ pip3 install -r requirements.txt
 ## Usage
 
 ```
-$ python3 favicon-hashtrick.py <url>
+$ python3 favicon-hashtrick.py -f <favicon_file>
+$ python3 favicon-hashtrick.py -k xxxxxxxxxxxxxxxxxxxxx -v ip_str,hostnames -u <favicon_url>
 ```
 
 ```
@@ -35,3 +36,10 @@ options:
 ```
 
 <img src="https://raw.githubusercontent.com/gwen001/favicon-hashtrick/main/preview.png" />
+
+---
+
+I don't believe in license.  
+You can do whatever you want with this program.
+
+
