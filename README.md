@@ -16,6 +16,11 @@
 
 ---
 
+## Description
+
+This Python tool calculates the hash of a given image (a favicon file or url) and then performs a search on Shodan to find webapps that use the same favicon.
+This is very useful to find subdomains during the recon process.
+
 ## Install
 
 ```
